@@ -8,6 +8,4 @@ src=./src/
 colors=False
 quiet=False
 target=simstrat.f03
-dependon=./lib/csv_fortran/fobos((direct))
-         ./lib/json_fortran/fobos((direct))
 log=True
